@@ -1,0 +1,7 @@
+body{font-family: 'Poppins', sans-serif !important;}
+#app_container{width:400px; margin:auto;}
+#form_container input[type='text'], input[type='date']{font-size:.9em; outline: none !important; box-shadow: none !important;}
+.small_font{font-size:.9em;}
+.a2hs_banner{width:300px; min-width:300px;}
+.a2hs_banner i{font-size:1.3em;}
+@media screen {}

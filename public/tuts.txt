@@ -1,0 +1,26 @@
+windows.localstorage
+storage.local API
+
+Ref: https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
+
+The Storate API: 
+2 Important mechanism
+    a. sessionStorage();
+    b. localStorage();
+
+PWA
+1. Cache API:  for storing responses to network requests offline 
+   (very useful for storing site assets) : Cashstorage Object
+2. Web Storage and IndexedDB
+3. Web push API
+4. Notification API
+5. Service worker
+6. Web worker
+7. Fetch API
+8. Promises sync/async
+9. install on home screen 
+10. push notification API
+11. Push API
+
+FOR  UPDATING CACHED PAGES WHENEVER THERE IS A NETWORK
+Web Periodic Background Synchronization API

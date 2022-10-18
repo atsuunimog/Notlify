@@ -1,0 +1,33 @@
+CORE URL:
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+
+FEATURES: C.R.U.D
+1. service worker
+2. web worker
+3. local_storge API / cache
+4. push notification api
+5. fetch_api
+6. Stream API
+7. Firebase
+8. REST API
+9. Top banner to install app
+10. sync todo with calender with google calender or calenderly
+11. Integrate todo app as wordpress plugin
+12. sync with netflix motives 
+13. Populate todo list with browser plugin extension
+14. sync todo with hemba recruiter jobs
+15. Match users for a calender event and let them chat (network before the event)
+
+FUNCTIONALITIES
+1. Perform CRUD Operations using Fetch API
+2. Cache all previous todo content and keep them for offline access
+3. Allow users to ceate new todo task offline in localstorage and update them when online
+4. Send push notification to user when ever a schedule is due
+5. Order events by their date and time
+6. Store code base in Hybrid app container (cordova)
+7. Converting & Listing progressive web apps on playstore
+
+SERVER
+1. Node.js
+2. mysql/mongodb
+3. Firebase
